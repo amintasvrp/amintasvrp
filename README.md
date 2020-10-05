@@ -17,9 +17,9 @@ RPG Dungeon Master.<br>
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 <br>
 <br>
