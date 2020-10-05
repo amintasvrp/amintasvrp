@@ -3,7 +3,7 @@
 ## Hello, my dear ! :wink:
 
 I'm Amintas.<br>
-Full-Stack Web Developer.<br>
+Full-Stack Web Developer @ Distributed Systems Laboratory (LSD).<br>
 DevOps Enthusiast.<br>
 Undergraduate Student in Computer Science @ UFCG.<br>
 RPG Dungeon Master.<br>
