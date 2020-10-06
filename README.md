@@ -1,6 +1,7 @@
 <samp>
-
+  
 ## Hello, my dear ! :wink:
+
 
 I'm Amintas.<br>
 Full-Stack Web Developer @ Distributed Systems Laboratory (LSD).<br>
@@ -10,6 +11,8 @@ RPG Dungeon Master.<br>
 
 **Proficiencies:**
 
+<img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React Native-764ABC?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
@@ -20,6 +23,9 @@ RPG Dungeon Master.<br>
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+<img alt="LaTex" src="https://img.shields.io/badge/-LaTex-008080?style=for-the-badge&logo=latex&logoColor=white" />
+
 
 <br>
 <br>
