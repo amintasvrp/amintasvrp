@@ -27,7 +27,7 @@ RPG Dungeon Master.<br>
 
 <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
 
-<img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" />
