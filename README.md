@@ -1,6 +1,6 @@
 <samp>
   
-## Hello, my dear ! :wink:
+## Hello, my dear! :wink:
 
 
 I'm Amintas.<br>
