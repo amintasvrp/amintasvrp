@@ -1,6 +1,6 @@
 <samp>
   
-## Hello, my dear ! :wink:
+## Hello, my dear ! <div style="text-align: right"> your-text-here </div> :wink:
 
 
 I'm Amintas.<br>
