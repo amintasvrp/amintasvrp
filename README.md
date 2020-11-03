@@ -31,6 +31,7 @@ RPG Dungeon Master.<br>
 <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <img alt="Eclipse Mosquitto" src="https://img.shields.io/badge/-Eclipse Mosquitto-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
