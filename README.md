@@ -28,7 +28,7 @@ RPG Dungeon Master.<br>
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
 
-#### Databases
+#### Database
 <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo DB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="MariaDB" src="https://img.shields.io/badge/-Maria DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img alt="InfluxDB" src="https://img.shields.io/badge/-Influx DB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
