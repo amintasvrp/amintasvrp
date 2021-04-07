@@ -37,7 +37,7 @@ RPG Dungeon Master.<br>
 <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub Pages-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img alt="Vagrant" src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" />
