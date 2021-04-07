@@ -4,7 +4,7 @@
 
 
 I'm Amintas.<br>
-Software Engineer @ Distributed Systems Laboratory (LSD).<br>
+Software Engineer.<br>
 DevOps Enthusiast.<br>
 Undergraduate Student in Computer Science @ UFCG.<br>
 RPG Dungeon Master.<br>
