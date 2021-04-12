@@ -43,6 +43,7 @@ RPG Dungeon Master.<br>
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <img alt="Eclipse Mosquitto" src="https://img.shields.io/badge/-Eclipse Mosquitto-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img alt="GitHub Pages" src="https://img.shields.io/badge/-GitHub Pages-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
