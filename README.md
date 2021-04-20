@@ -9,7 +9,7 @@ DevOps Enthusiast.<br>
 Undergraduate Student in Computer Science @ UFCG.<br>
 RPG Dungeon Master.<br>
 
-### Proficiencies
+### Technologies
 
 #### Front-End
 <img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=white" />
