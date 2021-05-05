@@ -5,7 +5,7 @@
 
 I'm Amintas.<br>
 Software Engineer.<br>
-DevOps Enthusiast.<br>
+Site Reliability Engineer.<br>
 Undergraduate Student in Computer Science @ UFCG.<br>
 RPG Dungeon Master.<br>
 
