@@ -25,6 +25,8 @@ RPG Dungeon Master.<br>
 <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img alt="JUnit" src="https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node-dot-js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=GraphQL&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-77D228?style=for-the-badge&logo=swagger&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
