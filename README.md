@@ -6,7 +6,7 @@
 I'm Amintas.<br>
 Software Engineer.<br>
 Site Reliability Engineer.<br>
-Undergraduate Student in Computer Science @ UFCG.<br>
+Bachelor in Computer Science @ UFCG.<br>
 RPG Dungeon Master.<br>
 
 ### Technologies
