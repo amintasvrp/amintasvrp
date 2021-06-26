@@ -57,6 +57,9 @@ RPG Dungeon Master.<br>
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img alt="Databriks" src="https://img.shields.io/badge/-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 <img alt="Apache Spark" src="https://img.shields.io/badge/-Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  
+#### Data Engineering
+<img alt="Blockchain" src="https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
 
 <br>
 <br>
