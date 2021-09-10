@@ -5,7 +5,7 @@
 
 I'm Amintas.<br>
 Application Developer @ Accenture.<br>
-Bachelor in Computer Science @ UFCG.<br>
+Computer Science Bachelor @ UFCG.<br>
 RPG Dungeon Master.<br>
 
 ### Technologies
