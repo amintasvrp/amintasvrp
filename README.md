@@ -4,7 +4,7 @@
 
 
 I'm Amintas.<br>
-Application Developer @ Accenture Brasil.<br>
+Application Developer @ Accenture.<br>
 Computer Science Bachelor @ UFCG.<br>
 RPG Dungeon Master.<br>
 
