@@ -17,6 +17,7 @@ RPG Dungeon Master.<br>
 <img alt="React Native" src="https://img.shields.io/badge/-React Native-764ABC?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
 
@@ -51,6 +52,7 @@ RPG Dungeon Master.<br>
 <img alt="Heroku" src="https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   
  #### Data Engineering
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
