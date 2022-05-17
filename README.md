@@ -35,6 +35,7 @@ RPG Dungeon Master.<br>
 #### Database
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="MariaDB" src="https://img.shields.io/badge/-Maria DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo DB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="InfluxDB" src="https://img.shields.io/badge/-Influx DB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
 
