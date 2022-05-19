@@ -82,6 +82,6 @@ RPG Dungeon Master.<br>
 <samp>
 <a>
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/?username=amintasvrp&show_icons=true&theme=jolly&count_private=true&line_height=22&card_width=244" width="400" />
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amintasvrp&show_icons=true&theme=jolly&layout=compact&card_width=244&langs_count=8" width="200" />
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amintasvrp&show_icons=true&theme=jolly&layout=compact&card_width=244&langs_count=8" width="300" />
 </a>
 </samp>
