@@ -1,6 +1,6 @@
 
   
-## Hello there! :wink:
+## Hello there !
 
 
 I'm Amintas.<br>
@@ -38,6 +38,7 @@ RPG Dungeon Master.<br>
 
 #### Database
 <samp>
+<img alt="Oracle PL/SQL" src="https://img.shields.io/badge/-Oracle PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="MariaDB" src="https://img.shields.io/badge/-Maria DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
