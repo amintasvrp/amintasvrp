@@ -6,7 +6,6 @@
 I'm Amintas.<br>
 Software Engineer @ Accenture.<br>
 Computer Science Bachelor @ UFCG.<br>
-RPG Dungeon Master.<br>
 
 ### Technologies
 
