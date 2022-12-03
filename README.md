@@ -60,6 +60,8 @@ Computer Science Bachelor @ UFCG.<br>
 <img alt="Heroku" src="https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
+<img alt="Oracle WebLogic" src="https://img.shields.io/badge/-Oracle WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </samp>
 
