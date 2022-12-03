@@ -4,7 +4,7 @@
 
 
 I'm Amintas.<br>
-Software Engineer @ Accenture.<br>
+Software Engineer @ CWI.<br>
 Computer Science Bachelor @ UFCG.<br>
 
 ### Technologies
