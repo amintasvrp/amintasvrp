@@ -11,27 +11,29 @@ Computer Science Bachelor @ UFCG.<br>
 
 #### Front-End
 <samp>
-<img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+<img alt="Angular JS" src="https://img.shields.io/badge/-Angular JS-e23237?style=for-the-badge&logo=angularjs&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="React JS" src="https://img.shields.io/badge/-React JS-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React Native-764ABC?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
+<img alt="D3 js" src="https://img.shields.io/badge/-D3 js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
 </samp>
 
 #### Back-End
 <samp>
-<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img alt="Apache Camel" src="https://img.shields.io/badge/-Apache Camel-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
 <img alt="JUnit" src="https://img.shields.io/badge/-JUnit 5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img alt="Node js" src="https://img.shields.io/badge/-Node js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=GraphQL&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-77D228?style=for-the-badge&logo=swagger&logoColor=white" />
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
 </samp>
 
@@ -60,6 +62,7 @@ Computer Science Bachelor @ UFCG.<br>
 <img alt="Heroku" src="https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google Cloud Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img alt="Oracle WebLogic" src="https://img.shields.io/badge/-Oracle WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
