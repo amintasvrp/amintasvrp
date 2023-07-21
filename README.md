@@ -47,7 +47,7 @@ Computer Science Bachelor @ UFCG.<br>
 <img alt="InfluxDB" src="https://img.shields.io/badge/-Influx DB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
 </samp>
 
-#### Infrastructure | DevOps
+#### DevOps and Infrastructure
 <samp>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
