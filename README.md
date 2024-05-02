@@ -11,7 +11,7 @@ Bachelor of Computer Science @ UFCG.<br>
 
 #### Front-End
 <samp>
-<img alt="Angular JS" src="https://img.shields.io/badge/-Angular JS-e23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+<img alt="Angular JS" src="https://img.shields.io/badge/-Angular JS-e23237?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="React JS" src="https://img.shields.io/badge/-React JS-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React Native-764ABC?style=for-the-badge&logo=react&logoColor=white" />
