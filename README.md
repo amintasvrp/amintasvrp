@@ -15,11 +15,13 @@ Bachelor of Computer Science @ UFCG.<br>
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="React JS" src="https://img.shields.io/badge/-React JS-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React Native-764ABC?style=for-the-badge&logo=react&logoColor=white" />
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img alt="D3 js" src="https://img.shields.io/badge/-D3 js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 <img alt="Hugo" src="https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
+<img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-cc0000?style=for-the-badge&logo=jekyll&logoColor=white" />
 </samp>
 
 #### Back-End
