@@ -43,11 +43,12 @@ Bachelor of Computer Science @ UFCG.<br>
 
 #### Database
 <samp>
-<img alt="Oracle PL/SQL" src="https://img.shields.io/badge/-Oracle PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=linux-foundation&logoColor=white" />
 <img alt="MariaDB" src="https://img.shields.io/badge/-Maria DB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo DB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
 <img alt="InfluxDB" src="https://img.shields.io/badge/-Influx DB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
 </samp>
 
@@ -55,7 +56,7 @@ Bachelor of Computer Science @ UFCG.<br>
 <samp>
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google Cloud Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=codesandbox&logoColor=white" />
 <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -63,7 +64,7 @@ Bachelor of Computer Science @ UFCG.<br>
 <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 <img alt="Eclipse Mosquitto" src="https://img.shields.io/badge/-Eclipse Mosquitto-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img alt="Oracle WebLogic" src="https://img.shields.io/badge/-Oracle WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img alt="Oracle WebLogic" src="https://img.shields.io/badge/-Oracle WebLogic-F80000?style=for-the-badge&logo=linux-foundation&logoColor=white" />
 <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" />
 <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
