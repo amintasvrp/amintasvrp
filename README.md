@@ -58,7 +58,7 @@ Bachelor of Computer Science @ UFCG.<br>
 <samp>
 <img alt="Amazon Web Service" src="https://img.shields.io/badge/-Amazon Web Service-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google Cloud Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=codesandbox&logoColor=white" />
+<img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" />
 <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white" />
