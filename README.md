@@ -15,9 +15,9 @@ Bachelor of Computer Science @ UFCG.<br>
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="React JS" src="https://img.shields.io/badge/-React JS-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React Native-764ABC?style=for-the-badge&logo=react&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/-Expo-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
 <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
