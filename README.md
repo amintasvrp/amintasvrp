@@ -4,7 +4,7 @@
 
 
 I'm Amintas.<br>
-Software Engineer @ CWI.<br>
+Senior Software Engineer @ CWI.<br>
 Bachelor of Computer Science @ UFCG.<br>
 
 ### Technologies
